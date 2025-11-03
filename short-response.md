@@ -1,0 +1,4 @@
+1. when collaborating with a classmate it is important to send a pull request, it is important because if no one sends a pull request then bugs will happen, like merging two branches together at the same time
+2. devs use branches to fix, add, or try new things without making changes to the main branch, so they dont mess up their work
+3. git is a distributed version control system, that all devs has access to all their change, github is a cloud based service that allows all devs to store, track, manage and control change to their code, they work together because github helps devs use git 
+4. its `git add .` first then `git commit -m "message'`, lasty `git push` 
